@@ -1,3 +1,3 @@
 # Smart-Analyzer
-PROJECT IN PROGRESS 
+PROJECT IN PROGRESS:
 Analyzing the data smartly
